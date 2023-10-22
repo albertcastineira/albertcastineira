@@ -4,7 +4,7 @@
 I am a full stack developer who enjoys challenges and new adventures.  
 I like to create things that help or facilitate tasks for others.  
 
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/albert-casti%C3%B1eira-aranda/)](https://www.linkedin.com/in/albert-casti%C3%B1eira-aranda/)
 
  ---
 
