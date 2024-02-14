@@ -6,6 +6,11 @@ I like to create things that help or facilitate tasks for others.
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/albert-casti%C3%B1eira-aranda/)](https://www.linkedin.com/in/albert-casti%C3%B1eira-aranda/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertcastineira&hide=contribs,prs)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertcastineira&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
  ---
 
  ### 🛠️ Languages and tools
@@ -27,8 +32,6 @@ I like to create things that help or facilitate tasks for others.
 
 <img align="left" alt="WINDOWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
-<img align="left" alt="TAILWIND CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-
 <img align="left" alt="BOOTSTRAP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 
 <img align="left" alt="REACT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -39,4 +42,10 @@ I like to create things that help or facilitate tasks for others.
 
 <img align="left" alt="SPRINGBOOT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
-<img align="left" alt="MYSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
+<img align="left" alt="MYSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>  
+
+
+
+
+     
+
